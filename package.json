@@ -1,0 +1,42 @@
+{
+  "name": "marketani-client",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.10.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react": "^3.1.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.3.1",
+    "vite": "^4.2.0"
+  },
+  "description": "Client side for Marketani website",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pijarpahlawan/marketani-client.git"
+  },
+  "keywords": [
+    "marketplace",
+    "ecommerce",
+    "agriculture"
+  ],
+  "author": "kelompok 3 21IF08",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/pijarpahlawan/marketani-client/issues"
+  },
+  "homepage": "https://github.com/pijarpahlawan/marketani-client#readme"
+}
